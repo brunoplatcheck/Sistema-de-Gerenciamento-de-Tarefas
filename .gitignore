@@ -1,0 +1,31 @@
+
+# Ignorar diretórios de módulos
+node_modules/
+
+# Ignorar arquivos de build do TypeScript
+dist/
+
+# Ignorar variáveis de ambiente
+.env
+
+# Ignorar o tutorial de teste
+TEST_TUTORIAL.md
+
+# Ignorar arquivos de log
+*.log
+
+# Ignorar arquivos temporários e de cache
+.DS_Store
+*.tmp
+*.bak
+
+# Ignorar arquivos específicos do sistema operacional
+.vscode/
+.idea/
+
+# Ignorar arquivos de lock do pnpm
+pnpm-lock.yaml
+
+# Ignorar arquivos de cache do npm
+.npm/
+
